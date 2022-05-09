@@ -10,7 +10,7 @@ This is a contact list application with my quick assignment in class. The object
 * Server - NodeJS provides some APIs as followed
 * Database - MySQL (It requires xampp to host a local database)
 
-## Environment prepartion
+## Environment preparation
 * I assume that you have installed ReactJS, Node JS
 * Download this repo
 * Download XAMPP with the latest version
