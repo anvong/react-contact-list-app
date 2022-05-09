@@ -27,6 +27,6 @@ This is a contact list application with my quick assignment in class. The object
 * Run `npm start` to open application. By default, it will open a web browser with http://localhost:3000/
 
 ## Reference sample
-This project is rewrite base on my quick research on ReactJS, NodeJS working with MySQL Database.
+*This project is rewrite base on my quick research on ReactJS, NodeJS working with MySQL Database.
 https://github.com/nidhigaday/React-Contact-List-App
-Some predicated code are replaced by newer version.
+*Some predicated code are replaced by newer version.
